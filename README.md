@@ -2,6 +2,8 @@
 
 FetchFood is an Android application designed to help dog owners find and purchase high-quality dog food and nutrition-related products. The app also provides valuable educational resources on dog nutrition to help owners make informed decisions about their pet's dietary needs.
 
+![image alt](https://github.com/PahanSanajana/FetchFood_Dog_Nutrition_Apk/blob/25e6e5a56b62c223eb449e89d393a89a783f7697/FetchFood%20Poster.png)
+
 ## Features
 
 ### User Authentication and Profiles
